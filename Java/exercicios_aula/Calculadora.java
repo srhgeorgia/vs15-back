@@ -1,3 +1,5 @@
+package exercicios_aula;
+
 import java.util.Scanner;
 
 public class Calculadora {
